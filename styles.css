@@ -1,0 +1,21 @@
+body {
+	background-color: #ffffff;	
+	color: #f4f4f4;
+	font-family: 'Lato', sans-serif;
+}
+
+#darth {
+	color: #a92a2a;
+	height: 40px;
+}
+
+#luke {
+	color: #6ca529;
+	height: 40px;
+}
+
+.icon{
+	width: 30px;
+	float: left;
+	margin: 0 20px 0 10px;
+}
